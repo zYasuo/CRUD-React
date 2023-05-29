@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.div-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.table {
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+
+}
+
+.td,.th {
+  border-bottom: 1px solid white;
+  padding: 0.8em;
+}
